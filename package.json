@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/PaperPesto/geocode/issues"
   },
-  "homepage": "https://github.com/PaperPesto/geocode#readme"
+  "homepage": "https://github.com/PaperPesto/geocode#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
