@@ -1,0 +1,22 @@
+{
+  "name": "geocode",
+  "version": "1.0.0",
+  "description": "Exercise of node.js requiring request module, npm and git from node.js Udemy course. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaperPesto/geocode.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Leonardo Bianchini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaperPesto/geocode/issues"
+  },
+  "homepage": "https://github.com/PaperPesto/geocode#readme"
+}
