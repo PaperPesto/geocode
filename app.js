@@ -15,6 +15,8 @@ const argv = yargs
 .help()
 .argv;
 
+// Da console scrivere node app.js -a "---insert here---"
+
 var address = argv.address;
 var credentials = 'AIzaSyCiNds_rC3hSNSd2PlV828fCI-VdrYB4RQ';
 
