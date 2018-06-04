@@ -5,7 +5,8 @@ const geocode = require('./geocode.js');
 const bodyParser = require('body-parser');
 
 var app = express();
-app.use(bodyParser.json());
+//app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
 
 var credentials = 'AIzaSyCiNds_rC3hSNSd2PlV828fCI-VdrYB4RQ';
 
